@@ -3,4 +3,52 @@
 
 #EXTINF:-1 tvg-id="TVC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvh3v68EcQw6eojyvgSl1QrQRBDq7SKY2Hg&s.png" group-title="News Channels",TVC News
 https://cache1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY4MTMxODkxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90dmNuZXdzL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjliYzY1Y2M5MmU1MDVhOTkiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE4Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI1MyIsInNvdXJjZXMiOlsxMDBdfQ==.3g5cDPa2LP16fejghlFWQSKEwKZD8BPGwQnx4wel5iGyKQC1Jf39bruX1L0olskPpLSWEDuGYLL_CwZYa1ANhQ==/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#NAME Stream Nigeria (NG)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8:ACNN
+#DESCRIPTION ACNN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8:AfroSport Nigeria
+#DESCRIPTION AfroSport Nigeria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.commec.tv/6447b2559d8b0711e2fa75cc/live_222c2dc0b69f11ee8c3c99218c8c67c4/index.fmp4.m3u8:APTIM TV
+#DESCRIPTION APTIM TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8:BCS StarCross
+#DESCRIPTION BCS StarCross
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8:Bride TV
+#DESCRIPTION Bride TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8:Chosen TV English
+#DESCRIPTION Chosen TV English
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8:Flame TV
+#DESCRIPTION Flame TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8:Itage TV
+#DESCRIPTION Itage TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//j78dp6reyq5r-hls-live.5centscdn.com/4896_push_1963_001/00cb1f2e4ff89048f2e77e26940c00e6.sdp/playlist.m3u8:Kingsview TV
+#DESCRIPTION Kingsview TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8:LN247
+#DESCRIPTION LN247
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8:Miracle TV
+#DESCRIPTION Miracle TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_027/Stream/playlist.m3u8:New Vision TV
+#DESCRIPTION New Vision TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wf.newscentral.ng%3a8443/hls/stream.m3u8:News Central
+#DESCRIPTION News Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8:Nigbati
+#DESCRIPTION Nigbati
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8:Qausain TV
+#DESCRIPTION Qausain TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8:Rave TV
+#DESCRIPTION Rave TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.nixsat.com/play/rtm/index.m3u8:Redemption TV Ministry
+#DESCRIPTION Redemption TV Ministry
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8:Salvation TV
+#DESCRIPTION Salvation TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8:Sunnah TV
+#DESCRIPTION Sunnah TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8398/8398/playlist.m3u8:Superscreen TV
+#DESCRIPTION Superscreen TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8:Synagogue TV
+#DESCRIPTION Synagogue TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//newproxy3.vidivu.tv/waptv/index.m3u8:Wap TV
+#DESCRIPTION Wap TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wazobia.live%3a8333/channel/wmax.m3u8:Wazobia Max TV Nigeria
+#DESCRIPTION Wazobia Max TV Nigeria
+
 
