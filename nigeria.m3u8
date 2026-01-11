@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #PLAYLIST:Nigeria TV Channels
-#EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://imgur.com/91JLpxr#.png",ACNN (480p)
+#EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://imgur.com/a/5ZGwtQl",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+
 
 
