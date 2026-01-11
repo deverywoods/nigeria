@@ -2,6 +2,8 @@
 #PLAYLIST:Nigeria TV Channels
 #EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://duncanlock.net/images/posts/better-figures-images-plugin-for-pelican/dummy-200x200.png",ACNN
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AfricaTV3.ng@SD" tvg-logo="https://i.imgur.com/iibE9WL.png",Africa TV3 (720p) [Not 24/7]
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 
 
 
